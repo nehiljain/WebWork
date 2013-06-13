@@ -412,6 +412,15 @@ body {
 .portfolio {
 	margin-top: 60px;
 }
+/*-----------------------------*\
+	$Achievement
+\*-----------------------------*/
+
+.bigspacing header h3 {
+	line-height: 1em;
+	margin-top: -0.7%;
+	color: rgb(104, 104, 104);
+}
 
 /* galleryContainer */
 .galleryContainer {
